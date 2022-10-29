@@ -4517,5 +4517,6 @@ first contributions - hanyang univ.
 - [Jatin Chhabra](https://github.com/jat2208)
 - [Tushant Rangari](https://github.com/tushant07)
 - [Ansh Charak](https://github.com/AnshCharak)
+-[Mausoof Abdullah](https://github.com/MausoofAbdullah)
 - [Avani Saxena](https://github.com/avanisaxena9)
 
